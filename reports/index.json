@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260609-024337-sish",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
+      ],
+      "dateStart": "2026-06-09T00:43:37.000Z",
+      "dateEnd": "2026-06-09T01:49:54.000Z",
+      "dateLabel": "6/9/2026, 2:43:37 AM - 6/9/2026, 3:49:54 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260609-024337-sish",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 50
+      }
+    }
+  ]
+}
