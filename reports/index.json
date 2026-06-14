@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260614-024850-wxx0",
+      "title": "Cmon Wing",
+      "commanders": [
+        "Cmon Wing"
+      ],
+      "dateStart": "2026-06-14T00:48:50.000Z",
+      "dateEnd": "2026-06-14T02:02:17.000Z",
+      "dateLabel": "6/14/2026, 2:48:50 AM - 6/14/2026, 4:02:17 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260614-024850-wxx0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260611-022652-g3gx",
       "title": "When You Walk Away",
       "commanders": [
