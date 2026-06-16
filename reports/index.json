@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260616-023242-spw3",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
+      ],
+      "dateStart": "2026-06-16T00:32:42.000Z",
+      "dateEnd": "2026-06-16T01:42:54.000Z",
+      "dateLabel": "6/16/2026, 2:32:42 AM - 6/16/2026, 3:42:54 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260616-023242-spw3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260614-024850-wxx0",
       "title": "Cmon Wing",
       "commanders": [
