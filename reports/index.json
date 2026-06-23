@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260623-035227-ejwb",
+      "title": "I Symphony I",
+      "commanders": [
+        "I Symphony I"
+      ],
+      "dateStart": "2026-06-23T01:52:27.000Z",
+      "dateEnd": "2026-06-23T02:34:48.000Z",
+      "dateLabel": "6/23/2026, 3:52:27 AM - 6/23/2026, 4:34:48 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260623-035227-ejwb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260623-023755-822j",
       "title": "I Symphony I",
       "commanders": [
