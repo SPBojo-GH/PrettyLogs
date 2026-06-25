@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260625-023001-imos",
+      "title": "I Symphony I",
+      "commanders": [
+        "I Symphony I"
+      ],
+      "dateStart": "2026-06-25T00:30:01.000Z",
+      "dateEnd": "2026-06-25T01:17:19.000Z",
+      "dateLabel": "6/25/2026, 2:30:01 AM - 6/25/2026, 3:17:19 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260625-023001-imos",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260623-035227-ejwb",
       "title": "I Symphony I",
       "commanders": [
