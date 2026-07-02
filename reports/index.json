@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260702-025154-a0l1",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
+      ],
+      "dateStart": "2026-07-02T00:51:54.000Z",
+      "dateEnd": "2026-07-02T02:18:57.000Z",
+      "dateLabel": "7/2/2026, 2:51:54 AM - 7/2/2026, 4:18:57 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260702-025154-a0l1",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260625-023001-imos",
       "title": "I Symphony I",
       "commanders": [
