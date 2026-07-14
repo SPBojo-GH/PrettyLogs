@@ -4,6 +4,35 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260702-025154-vuuc",
+      "title": "Bald Predator, When You Walk Away",
+      "commanders": [
+        "Bald Predator",
+        "When You Walk Away"
+      ],
+      "dateStart": "2026-07-02T00:51:54.000Z",
+      "dateEnd": "2026-07-14T01:26:20.000Z",
+      "dateLabel": "7/2/2026, 2:51:54 AM - 7/14/2026, 3:26:20 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260702-025154-vuuc",
+      "summary": {
+        "borderlandsPct": 0.64,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260702-025154-a0l1",
       "title": "When You Walk Away",
       "commanders": [
