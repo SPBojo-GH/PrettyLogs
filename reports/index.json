@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260721-025216-f0av",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
+      ],
+      "dateStart": "2026-07-21T00:52:16.000Z",
+      "dateEnd": "2026-07-21T02:14:57.000Z",
+      "dateLabel": "7/21/2026, 2:52:16 AM - 7/21/2026, 4:14:57 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260721-025216-f0av",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260716-015122-zum6",
       "title": "Bald Predator",
       "commanders": [
