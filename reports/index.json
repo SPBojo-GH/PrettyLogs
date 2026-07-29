@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260729-021201-vfo9",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "dateStart": "2026-07-29T00:12:01.000Z",
+      "dateEnd": "2026-07-29T01:05:47.000Z",
+      "dateLabel": "7/29/2026, 2:12:01 AM - 7/29/2026, 3:05:47 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260729-021201-vfo9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260721-025216-f0av",
       "title": "When You Walk Away",
       "commanders": [
