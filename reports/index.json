@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260730-020512-nz53",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "dateStart": "2026-07-30T00:05:12.000Z",
+      "dateEnd": "2026-07-30T01:09:05.000Z",
+      "dateLabel": "7/30/2026, 2:05:12 AM - 7/30/2026, 3:09:05 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260730-020512-nz53",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260729-021201-vfo9",
       "title": "Grimaldi",
       "commanders": [
