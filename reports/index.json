@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260730-032620-i058",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "dateStart": "2026-07-30T01:26:20.000Z",
+      "dateEnd": "2026-07-30T01:52:47.000Z",
+      "dateLabel": "7/30/2026, 3:26:20 AM - 7/30/2026, 3:52:47 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260730-032620-i058",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260730-020512-nz53",
       "title": "Grimaldi",
       "commanders": [
