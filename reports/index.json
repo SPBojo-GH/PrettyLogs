@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260802-194207-gg8v",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "guild": {
+        "id": "2C183DBB-65E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Eternal Infamy",
+        "tag": "Fate"
+      },
+      "dateStart": "2026-08-02T17:42:07.000Z",
+      "dateEnd": "2026-08-02T19:43:19.000Z",
+      "dateLabel": "8/2/2026, 7:42:07 PM - 8/2/2026, 9:43:19 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260802-194207-gg8v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260802-021317-rclv",
       "title": "Grimaldi",
       "commanders": [
