@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260802-021317-rclv",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-02T00:13:17.000Z",
+      "dateEnd": "2026-08-02T02:02:17.000Z",
+      "dateLabel": "8/2/2026, 2:13:17 AM - 8/2/2026, 4:02:17 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260802-021317-rclv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260730-032620-i058",
       "title": "Grimaldi",
       "commanders": [
