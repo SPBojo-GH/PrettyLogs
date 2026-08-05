@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260805-014422-rklm",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-04T23:44:22.000Z",
+      "dateEnd": "2026-08-05T01:36:42.000Z",
+      "dateLabel": "8/5/2026, 1:44:22 AM - 8/5/2026, 3:36:42 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260805-014422-rklm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260804-023538-pyu9",
       "title": "When You Walk Away",
       "commanders": [
