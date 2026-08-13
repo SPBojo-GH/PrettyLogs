@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260813-020615-nxpj",
+      "title": "Bald Predator",
+      "commanders": [
+        "Bald Predator"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-13T00:06:15.000Z",
+      "dateEnd": "2026-08-13T01:14:16.000Z",
+      "dateLabel": "8/13/2026, 2:06:15 AM - 8/13/2026, 3:14:16 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260813-020615-nxpj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260812-015733-nnsv",
       "title": "Grimaldi",
       "commanders": [
