@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260820-014149-g61a",
+      "title": "Bald Predator",
+      "commanders": [
+        "Bald Predator"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-19T23:41:49.000Z",
+      "dateEnd": "2026-08-20T01:31:08.673Z",
+      "dateLabel": "8/20/2026, 1:41:49 AM - 8/20/2026, 3:31:08 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260820-014149-g61a",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260818-022749-7o4d",
       "title": "When You Walk Away",
       "commanders": [
