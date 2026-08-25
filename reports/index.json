@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260825-023422-jpto",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
+      ],
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-08-25T00:34:22.000Z",
+      "dateEnd": "2026-08-25T01:44:49.175Z",
+      "dateLabel": "8/25/2026, 2:34:22 AM - 8/25/2026, 3:44:49 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260825-023422-jpto",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260820-014149-g61a",
       "title": "Bald Predator",
       "commanders": [
