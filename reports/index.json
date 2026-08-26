@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260826-022824-z55h",
+      "title": "Jmbrage",
+      "commanders": [
+        "Jmbrage"
+      ],
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-08-26T00:28:24.000Z",
+      "dateEnd": "2026-08-26T01:24:53.128Z",
+      "dateLabel": "8/26/2026, 2:28:24 AM - 8/26/2026, 3:24:53 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260826-022824-z55h",
+      "summary": {
+        "borderlandsPct": 0.041666666666666664,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260825-023422-jpto",
       "title": "When You Walk Away",
       "commanders": [
