@@ -4,6 +4,40 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260901-022435-nbe7",
+      "title": "Jmbrage Warrior, When You Walk Away",
+      "commanders": [
+        "Jmbrage Warrior",
+        "When You Walk Away"
+      ],
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-09-01T00:24:35.000Z",
+      "dateEnd": "2026-09-01T02:17:02.717Z",
+      "dateLabel": "9/1/2026, 2:24:35 AM - 9/1/2026, 4:17:02 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260901-022435-nbe7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260827-022630-c584",
       "title": "When You Walk Away",
       "commanders": [
