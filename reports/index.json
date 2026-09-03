@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260903-022727-l6y1",
+      "title": "Waifu Enjoyer",
+      "commanders": [
+        "Waifu Enjoyer"
+      ],
+      "guild": {
+        "id": "1AAB9713-29A7-F111-BB1F-12683E7B69EB",
+        "name": "Big Ol Booty Biatches",
+        "tag": "BOBB"
+      },
+      "dateStart": "2026-09-03T00:27:27.000Z",
+      "dateEnd": "2026-09-03T01:13:25.213Z",
+      "dateLabel": "9/3/2026, 2:27:27 AM - 9/3/2026, 3:13:25 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260903-022727-l6y1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260902-023015-x8on",
       "title": "Jmbrage Gaurdian",
       "commanders": [
