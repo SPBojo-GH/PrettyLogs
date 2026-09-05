@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260905-124432-ci5w",
+      "title": "Rub Shocks Rucksack",
+      "commanders": [
+        "Rub Shocks Rucksack"
+      ],
+      "guild": {
+        "id": "963332A8-5EA3-F011-BB1C-06100262F10B",
+        "name": "Bags Per Mînute",
+        "tag": "BPM"
+      },
+      "dateStart": "2026-09-05T10:44:32.000Z",
+      "dateEnd": "2026-09-05T11:20:43.066Z",
+      "dateLabel": "9/5/2026, 12:44:32 PM - 9/5/2026, 1:20:43 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260905-124432-ci5w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260903-022727-l6y1",
       "title": "Waifu Enjoyer",
       "commanders": [
