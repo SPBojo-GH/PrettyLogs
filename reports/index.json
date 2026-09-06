@@ -1,8 +1,36 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "violet-purple",
   "glassSurfaces": true,
   "glassmorphic": true,
   "entries": [
+    {
+      "id": "20260906-120127-qtmv",
+      "title": "Rub Shocks Rucksack",
+      "commanders": [
+        "Rub Shocks Rucksack"
+      ],
+      "guild": {
+        "id": "963332A8-5EA3-F011-BB1C-06100262F10B",
+        "name": "Bags Per Mînute",
+        "tag": "BPM"
+      },
+      "dateStart": "2026-09-06T10:01:27.000Z",
+      "dateEnd": "2026-09-06T11:20:05.713Z",
+      "dateLabel": "9/6/2026, 12:01:27 PM - 9/6/2026, 1:20:05 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260906-120127-qtmv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 65
+      }
+    },
     {
       "id": "20260905-211914-g6mj",
       "title": "Jmbrage Gaurdian",
