@@ -1,1085 +1,1118 @@
-[
-  {
-    "id": "20260907-015645-57oi",
-    "title": "Grimaldi",
-    "commanders": [
-      "Grimaldi"
-    ],
-    "guild": {
-      "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
-      "name": "Blood Pact",
-      "tag": "BP"
+{
+  "colorPalette": "violet-purple",
+  "glassSurfaces": true,
+  "glassmorphic": true,
+  "entries": [
+    {
+      "id": "20260908-123526-gwp2",
+      "title": "Rub Shocks Rucksack",
+      "commanders": [
+        "Rub Shocks Rucksack"
+      ],
+      "guild": {
+        "id": "963332A8-5EA3-F011-BB1C-06100262F10B",
+        "name": "Bags Per Mînute",
+        "tag": "BPM"
+      },
+      "dateStart": "2026-09-08T10:35:26.000Z",
+      "dateEnd": "2026-09-08T11:59:55.906Z",
+      "dateLabel": "9/8/2026, 12:35:26 PM - 9/8/2026, 1:59:55 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260908-123526-gwp2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 50
+      }
     },
-    "dateStart": "2026-09-06T23:56:45.000Z",
-    "dateEnd": "2026-09-07T01:01:56.691Z",
-    "dateLabel": "9/7/2026, 1:56:45 AM - 9/7/2026, 3:01:56 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260907-015645-57oi",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+    {
+      "id": "20260907-015645-57oi",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 54
-    }
-  },
-  {
-    "id": "20260906-120127-qtmv",
-    "title": "Rub Shocks Rucksack",
-    "commanders": [
-      "Rub Shocks Rucksack"
-    ],
-    "guild": {
-      "id": "963332A8-5EA3-F011-BB1C-06100262F10B",
-      "name": "Bags Per Mînute",
-      "tag": "BPM"
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-09-06T23:56:45.000Z",
+      "dateEnd": "2026-09-07T01:01:56.691Z",
+      "dateLabel": "9/7/2026, 1:56:45 AM - 9/7/2026, 3:01:56 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260907-015645-57oi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 54
+      }
     },
-    "dateStart": "2026-09-06T10:01:27.000Z",
-    "dateEnd": "2026-09-06T11:20:05.713Z",
-    "dateLabel": "9/6/2026, 12:01:27 PM - 9/6/2026, 1:20:05 PM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260906-120127-qtmv",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 20,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260906-120127-qtmv",
+      "title": "Rub Shocks Rucksack",
+      "commanders": [
+        "Rub Shocks Rucksack"
       ],
-      "avgSquadSize": 48,
-      "avgEnemySize": 65
-    }
-  },
-  {
-    "id": "20260905-211914-g6mj",
-    "title": "Jmbrage Gaurdian",
-    "commanders": [
-      "Jmbrage Gaurdian"
-    ],
-    "guild": {
-      "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
-      "name": "Celestial Omen",
-      "tag": "CO"
+      "guild": {
+        "id": "963332A8-5EA3-F011-BB1C-06100262F10B",
+        "name": "Bags Per Mînute",
+        "tag": "BPM"
+      },
+      "dateStart": "2026-09-06T10:01:27.000Z",
+      "dateEnd": "2026-09-06T11:20:05.713Z",
+      "dateLabel": "9/6/2026, 12:01:27 PM - 9/6/2026, 1:20:05 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260906-120127-qtmv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 65
+      }
     },
-    "dateStart": "2026-09-05T19:19:14.000Z",
-    "dateEnd": "2026-09-05T20:03:43.485Z",
-    "dateLabel": "9/5/2026, 9:19:14 PM - 9/5/2026, 10:03:43 PM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260905-211914-g6mj",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 36,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260905-211914-g6mj",
+      "title": "Jmbrage Gaurdian",
+      "commanders": [
+        "Jmbrage Gaurdian"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260905-124432-ci5w",
-    "title": "Rub Shocks Rucksack",
-    "commanders": [
-      "Rub Shocks Rucksack"
-    ],
-    "guild": {
-      "id": "963332A8-5EA3-F011-BB1C-06100262F10B",
-      "name": "Bags Per Mînute",
-      "tag": "BPM"
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-09-05T19:19:14.000Z",
+      "dateEnd": "2026-09-05T20:03:43.485Z",
+      "dateLabel": "9/5/2026, 9:19:14 PM - 9/5/2026, 10:03:43 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260905-211914-g6mj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 49
+      }
     },
-    "dateStart": "2026-09-05T10:44:32.000Z",
-    "dateEnd": "2026-09-05T11:20:43.066Z",
-    "dateLabel": "9/5/2026, 12:44:32 PM - 9/5/2026, 1:20:43 PM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260905-124432-ci5w",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260905-124432-ci5w",
+      "title": "Rub Shocks Rucksack",
+      "commanders": [
+        "Rub Shocks Rucksack"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 55
-    }
-  },
-  {
-    "id": "20260903-022727-l6y1",
-    "title": "Waifu Enjoyer",
-    "commanders": [
-      "Waifu Enjoyer"
-    ],
-    "guild": {
-      "id": "1AAB9713-29A7-F111-BB1F-12683E7B69EB",
-      "name": "Big Ol Booty Biatches",
-      "tag": "BOBB"
+      "guild": {
+        "id": "963332A8-5EA3-F011-BB1C-06100262F10B",
+        "name": "Bags Per Mînute",
+        "tag": "BPM"
+      },
+      "dateStart": "2026-09-05T10:44:32.000Z",
+      "dateEnd": "2026-09-05T11:20:43.066Z",
+      "dateLabel": "9/5/2026, 12:44:32 PM - 9/5/2026, 1:20:43 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260905-124432-ci5w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 55
+      }
     },
-    "dateStart": "2026-09-03T00:27:27.000Z",
-    "dateEnd": "2026-09-03T01:13:25.213Z",
-    "dateLabel": "9/3/2026, 2:27:27 AM - 9/3/2026, 3:13:25 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260903-022727-l6y1",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 25,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260903-022727-l6y1",
+      "title": "Waifu Enjoyer",
+      "commanders": [
+        "Waifu Enjoyer"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 55
-    }
-  },
-  {
-    "id": "20260902-023015-x8on",
-    "title": "Jmbrage Gaurdian",
-    "commanders": [
-      "Jmbrage Gaurdian"
-    ],
-    "guild": {
-      "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
-      "name": "Celestial Omen",
-      "tag": "CO"
+      "guild": {
+        "id": "1AAB9713-29A7-F111-BB1F-12683E7B69EB",
+        "name": "Big Ol Booty Biatches",
+        "tag": "BOBB"
+      },
+      "dateStart": "2026-09-03T00:27:27.000Z",
+      "dateEnd": "2026-09-03T01:13:25.213Z",
+      "dateLabel": "9/3/2026, 2:27:27 AM - 9/3/2026, 3:13:25 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260903-022727-l6y1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 55
+      }
     },
-    "dateStart": "2026-09-02T00:30:15.000Z",
-    "dateEnd": "2026-09-02T01:52:06.546Z",
-    "dateLabel": "9/2/2026, 2:30:15 AM - 9/2/2026, 3:52:06 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260902-023015-x8on",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 11,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 3,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260902-023015-x8on",
+      "title": "Jmbrage Gaurdian",
+      "commanders": [
+        "Jmbrage Gaurdian"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260901-022435-nbe7",
-    "title": "Jmbrage Warrior, When You Walk Away",
-    "commanders": [
-      "Jmbrage Warrior",
-      "When You Walk Away"
-    ],
-    "guild": {
-      "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
-      "name": "Celestial Omen",
-      "tag": "CO"
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-09-02T00:30:15.000Z",
+      "dateEnd": "2026-09-02T01:52:06.546Z",
+      "dateLabel": "9/2/2026, 2:30:15 AM - 9/2/2026, 3:52:06 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260902-023015-x8on",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 43
+      }
     },
-    "dateStart": "2026-09-01T00:24:35.000Z",
-    "dateEnd": "2026-09-01T02:17:02.717Z",
-    "dateLabel": "9/1/2026, 2:24:35 AM - 9/1/2026, 4:17:02 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260901-022435-nbe7",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 16,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 7,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260901-022435-nbe7",
+      "title": "Jmbrage Warrior, When You Walk Away",
+      "commanders": [
+        "Jmbrage Warrior",
+        "When You Walk Away"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260827-022630-c584",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "guild": {
-      "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
-      "name": "Celestial Omen",
-      "tag": "CO"
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-09-01T00:24:35.000Z",
+      "dateEnd": "2026-09-01T02:17:02.717Z",
+      "dateLabel": "9/1/2026, 2:24:35 AM - 9/1/2026, 4:17:02 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260901-022435-nbe7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 45
+      }
     },
-    "dateStart": "2026-08-27T00:26:30.000Z",
-    "dateEnd": "2026-08-27T02:01:48.210Z",
-    "dateLabel": "8/27/2026, 2:26:30 AM - 8/27/2026, 4:01:48 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260827-022630-c584",
-    "summary": {
-      "borderlandsPct": 0.3333333333333333,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 12,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 6,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260827-022630-c584",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 47
-    }
-  },
-  {
-    "id": "20260826-022824-z55h",
-    "title": "Jmbrage",
-    "commanders": [
-      "Jmbrage"
-    ],
-    "guild": {
-      "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
-      "name": "Celestial Omen",
-      "tag": "CO"
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-08-27T00:26:30.000Z",
+      "dateEnd": "2026-08-27T02:01:48.210Z",
+      "dateLabel": "8/27/2026, 2:26:30 AM - 8/27/2026, 4:01:48 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260827-022630-c584",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 47
+      }
     },
-    "dateStart": "2026-08-26T00:28:24.000Z",
-    "dateEnd": "2026-08-26T01:24:53.128Z",
-    "dateLabel": "8/26/2026, 2:28:24 AM - 8/26/2026, 3:24:53 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260826-022824-z55h",
-    "summary": {
-      "borderlandsPct": 0.041666666666666664,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 23,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260826-022824-z55h",
+      "title": "Jmbrage",
+      "commanders": [
+        "Jmbrage"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 60
-    }
-  },
-  {
-    "id": "20260825-023422-jpto",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "guild": {
-      "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
-      "name": "Celestial Omen",
-      "tag": "CO"
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-08-26T00:28:24.000Z",
+      "dateEnd": "2026-08-26T01:24:53.128Z",
+      "dateLabel": "8/26/2026, 2:28:24 AM - 8/26/2026, 3:24:53 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260826-022824-z55h",
+      "summary": {
+        "borderlandsPct": 0.041666666666666664,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 60
+      }
     },
-    "dateStart": "2026-08-25T00:34:22.000Z",
-    "dateEnd": "2026-08-25T01:44:49.175Z",
-    "dateLabel": "8/25/2026, 2:34:22 AM - 8/25/2026, 3:44:49 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260825-023422-jpto",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 15,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260825-023422-jpto",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 46,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260820-014149-g61a",
-    "title": "Bald Predator",
-    "commanders": [
-      "Bald Predator"
-    ],
-    "guild": {
-      "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
-      "name": "Blood Pact",
-      "tag": "BP"
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-08-25T00:34:22.000Z",
+      "dateEnd": "2026-08-25T01:44:49.175Z",
+      "dateLabel": "8/25/2026, 2:34:22 AM - 8/25/2026, 3:44:49 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260825-023422-jpto",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 48
+      }
     },
-    "dateStart": "2026-08-19T23:41:49.000Z",
-    "dateEnd": "2026-08-20T01:31:08.673Z",
-    "dateLabel": "8/20/2026, 1:41:49 AM - 8/20/2026, 3:31:08 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260820-014149-g61a",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 28,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260820-014149-g61a",
+      "title": "Bald Predator",
+      "commanders": [
+        "Bald Predator"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260818-022749-7o4d",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "guild": {
-      "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
-      "name": "Celestial Omen",
-      "tag": "CO"
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-19T23:41:49.000Z",
+      "dateEnd": "2026-08-20T01:31:08.673Z",
+      "dateLabel": "8/20/2026, 1:41:49 AM - 8/20/2026, 3:31:08 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260820-014149-g61a",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 39
+      }
     },
-    "dateStart": "2026-08-18T00:27:49.000Z",
-    "dateEnd": "2026-08-18T01:02:45.000Z",
-    "dateLabel": "8/18/2026, 2:27:49 AM - 8/18/2026, 3:02:45 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260818-022749-7o4d",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 38,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260818-022749-7o4d",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260816-013800-tt7w",
-    "title": "Bald Predator",
-    "commanders": [
-      "Bald Predator"
-    ],
-    "guild": {
-      "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
-      "name": "Blood Pact",
-      "tag": "BP"
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-08-18T00:27:49.000Z",
+      "dateEnd": "2026-08-18T01:02:45.000Z",
+      "dateLabel": "8/18/2026, 2:27:49 AM - 8/18/2026, 3:02:45 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260818-022749-7o4d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 38,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 45
+      }
     },
-    "dateStart": "2026-08-15T23:38:00.000Z",
-    "dateEnd": "2026-08-16T00:26:02.000Z",
-    "dateLabel": "8/16/2026, 1:38:00 AM - 8/16/2026, 2:26:02 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260816-013800-tt7w",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 31,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260816-013800-tt7w",
+      "title": "Bald Predator",
+      "commanders": [
+        "Bald Predator"
       ],
-      "avgSquadSize": 41,
-      "avgEnemySize": 59
-    }
-  },
-  {
-    "id": "20260813-020615-nxpj",
-    "title": "Bald Predator",
-    "commanders": [
-      "Bald Predator"
-    ],
-    "guild": {
-      "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
-      "name": "Blood Pact",
-      "tag": "BP"
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-15T23:38:00.000Z",
+      "dateEnd": "2026-08-16T00:26:02.000Z",
+      "dateLabel": "8/16/2026, 1:38:00 AM - 8/16/2026, 2:26:02 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260816-013800-tt7w",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 59
+      }
     },
-    "dateStart": "2026-08-13T00:06:15.000Z",
-    "dateEnd": "2026-08-13T01:14:16.000Z",
-    "dateLabel": "8/13/2026, 2:06:15 AM - 8/13/2026, 3:14:16 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260813-020615-nxpj",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 20,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260813-020615-nxpj",
+      "title": "Bald Predator",
+      "commanders": [
+        "Bald Predator"
       ],
-      "avgSquadSize": 47,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260812-015733-nnsv",
-    "title": "Grimaldi",
-    "commanders": [
-      "Grimaldi"
-    ],
-    "guild": {
-      "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
-      "name": "Blood Pact",
-      "tag": "BP"
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-13T00:06:15.000Z",
+      "dateEnd": "2026-08-13T01:14:16.000Z",
+      "dateLabel": "8/13/2026, 2:06:15 AM - 8/13/2026, 3:14:16 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260813-020615-nxpj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 53
+      }
     },
-    "dateStart": "2026-08-11T23:57:33.000Z",
-    "dateEnd": "2026-08-12T01:15:03.000Z",
-    "dateLabel": "8/12/2026, 1:57:33 AM - 8/12/2026, 3:15:03 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260812-015733-nnsv",
-    "summary": {
-      "borderlandsPct": 0.85,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 17,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Obsidian Sanctum",
-          "value": 3,
-          "color": "#64748b"
-        }
+    {
+      "id": "20260812-015733-nnsv",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
       ],
-      "avgSquadSize": 50,
-      "avgEnemySize": 51
-    }
-  },
-  {
-    "id": "20260811-024353-paj5",
-    "title": "Grimaldi, When You Walk Away",
-    "commanders": [
-      "Grimaldi",
-      "When You Walk Away"
-    ],
-    "guild": {
-      "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
-      "name": "Blood Pact",
-      "tag": "BP"
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-11T23:57:33.000Z",
+      "dateEnd": "2026-08-12T01:15:03.000Z",
+      "dateLabel": "8/12/2026, 1:57:33 AM - 8/12/2026, 3:15:03 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260812-015733-nnsv",
+      "summary": {
+        "borderlandsPct": 0.85,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 3,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 50,
+        "avgEnemySize": 51
+      }
     },
-    "dateStart": "2026-08-11T00:43:53.000Z",
-    "dateEnd": "2026-08-11T02:30:03.000Z",
-    "dateLabel": "8/11/2026, 2:43:53 AM - 8/11/2026, 4:30:03 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260811-024353-paj5",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 31,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260811-024353-paj5",
+      "title": "Grimaldi, When You Walk Away",
+      "commanders": [
+        "Grimaldi",
+        "When You Walk Away"
       ],
-      "avgSquadSize": 48,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260806-022623-jssw",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "guild": {
-      "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
-      "name": "Celestial Omen",
-      "tag": "CO"
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-11T00:43:53.000Z",
+      "dateEnd": "2026-08-11T02:30:03.000Z",
+      "dateLabel": "8/11/2026, 2:43:53 AM - 8/11/2026, 4:30:03 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260811-024353-paj5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 49
+      }
     },
-    "dateStart": "2026-08-06T00:26:23.000Z",
-    "dateEnd": "2026-08-06T01:39:49.000Z",
-    "dateLabel": "8/6/2026, 2:26:23 AM - 8/6/2026, 3:39:49 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260806-022623-jssw",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260806-022623-jssw",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260805-014422-rklm",
-    "title": "Grimaldi",
-    "commanders": [
-      "Grimaldi"
-    ],
-    "guild": {
-      "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
-      "name": "Blood Pact",
-      "tag": "BP"
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-08-06T00:26:23.000Z",
+      "dateEnd": "2026-08-06T01:39:49.000Z",
+      "dateLabel": "8/6/2026, 2:26:23 AM - 8/6/2026, 3:39:49 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260806-022623-jssw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 43
+      }
     },
-    "dateStart": "2026-08-04T23:44:22.000Z",
-    "dateEnd": "2026-08-05T01:36:42.000Z",
-    "dateLabel": "8/5/2026, 1:44:22 AM - 8/5/2026, 3:36:42 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260805-014422-rklm",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 5,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260805-014422-rklm",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 55
-    }
-  },
-  {
-    "id": "20260804-023538-pyu9",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "guild": {
-      "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
-      "name": "Celestial Omen",
-      "tag": "CO"
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-04T23:44:22.000Z",
+      "dateEnd": "2026-08-05T01:36:42.000Z",
+      "dateLabel": "8/5/2026, 1:44:22 AM - 8/5/2026, 3:36:42 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260805-014422-rklm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 55
+      }
     },
-    "dateStart": "2026-08-04T00:35:38.000Z",
-    "dateEnd": "2026-08-04T01:30:18.000Z",
-    "dateLabel": "8/4/2026, 2:35:38 AM - 8/4/2026, 3:30:18 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260804-023538-pyu9",
-    "summary": {
-      "borderlandsPct": 0.7741935483870968,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 24,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 7,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260804-023538-pyu9",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 41
-    }
-  },
-  {
-    "id": "20260803-021218-9gfv",
-    "title": "Grimaldi",
-    "commanders": [
-      "Grimaldi"
-    ],
-    "guild": {
-      "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
-      "name": "Blood Pact",
-      "tag": "BP"
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-08-04T00:35:38.000Z",
+      "dateEnd": "2026-08-04T01:30:18.000Z",
+      "dateLabel": "8/4/2026, 2:35:38 AM - 8/4/2026, 3:30:18 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260804-023538-pyu9",
+      "summary": {
+        "borderlandsPct": 0.7741935483870968,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 41
+      }
     },
-    "dateStart": "2026-08-03T00:12:18.000Z",
-    "dateEnd": "2026-08-03T01:26:10.000Z",
-    "dateLabel": "8/3/2026, 2:12:18 AM - 8/3/2026, 3:26:10 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260803-021218-9gfv",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 13,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 3,
-          "color": "#ef4444"
-        }
+    {
+      "id": "20260803-021218-9gfv",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 54
-    }
-  },
-  {
-    "id": "20260802-194207-gg8v",
-    "title": "Grimaldi",
-    "commanders": [
-      "Grimaldi"
-    ],
-    "guild": {
-      "id": "2C183DBB-65E5-E411-8D0D-AC162DAE8ACD",
-      "name": "Eternal Infamy",
-      "tag": "Fate"
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-03T00:12:18.000Z",
+      "dateEnd": "2026-08-03T01:26:10.000Z",
+      "dateLabel": "8/3/2026, 2:12:18 AM - 8/3/2026, 3:26:10 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260803-021218-9gfv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 54
+      }
     },
-    "dateStart": "2026-08-02T17:42:07.000Z",
-    "dateEnd": "2026-08-02T19:43:19.000Z",
-    "dateLabel": "8/2/2026, 7:42:07 PM - 8/2/2026, 9:43:19 PM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260802-194207-gg8v",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 23,
-          "color": "#ffffff"
-        }
+    {
+      "id": "20260802-194207-gg8v",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
       ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 50
-    }
-  },
-  {
-    "id": "20260802-021317-rclv",
-    "title": "Grimaldi",
-    "commanders": [
-      "Grimaldi"
-    ],
-    "guild": {
-      "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
-      "name": "Blood Pact",
-      "tag": "BP"
+      "guild": {
+        "id": "2C183DBB-65E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Eternal Infamy",
+        "tag": "Fate"
+      },
+      "dateStart": "2026-08-02T17:42:07.000Z",
+      "dateEnd": "2026-08-02T19:43:19.000Z",
+      "dateLabel": "8/2/2026, 7:42:07 PM - 8/2/2026, 9:43:19 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260802-194207-gg8v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 50
+      }
     },
-    "dateStart": "2026-08-02T00:13:17.000Z",
-    "dateEnd": "2026-08-02T02:02:17.000Z",
-    "dateLabel": "8/2/2026, 2:13:17 AM - 8/2/2026, 4:02:17 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260802-021317-rclv",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 10,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+    {
+      "id": "20260802-021317-rclv",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
       ],
-      "avgSquadSize": 41,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260730-032620-i058",
-    "title": "Grimaldi",
-    "commanders": [
-      "Grimaldi"
-    ],
-    "dateStart": "2026-07-30T01:26:20.000Z",
-    "dateEnd": "2026-07-30T01:52:47.000Z",
-    "dateLabel": "7/30/2026, 3:26:20 AM - 7/30/2026, 3:52:47 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260730-032620-i058",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 8,
-          "color": "#ef4444"
-        }
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-02T00:13:17.000Z",
+      "dateEnd": "2026-08-02T02:02:17.000Z",
+      "dateLabel": "8/2/2026, 2:13:17 AM - 8/2/2026, 4:02:17 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260802-021317-rclv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260730-032620-i058",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260730-020512-nz53",
-    "title": "Grimaldi",
-    "commanders": [
-      "Grimaldi"
-    ],
-    "dateStart": "2026-07-30T00:05:12.000Z",
-    "dateEnd": "2026-07-30T01:09:05.000Z",
-    "dateLabel": "7/30/2026, 2:05:12 AM - 7/30/2026, 3:09:05 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260730-020512-nz53",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-07-30T01:26:20.000Z",
+      "dateEnd": "2026-07-30T01:52:47.000Z",
+      "dateLabel": "7/30/2026, 3:26:20 AM - 7/30/2026, 3:52:47 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260730-032620-i058",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 53
+      }
+    },
+    {
+      "id": "20260730-020512-nz53",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260729-021201-vfo9",
-    "title": "Grimaldi",
-    "commanders": [
-      "Grimaldi"
-    ],
-    "dateStart": "2026-07-29T00:12:01.000Z",
-    "dateEnd": "2026-07-29T01:05:47.000Z",
-    "dateLabel": "7/29/2026, 2:12:01 AM - 7/29/2026, 3:05:47 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260729-021201-vfo9",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 6,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-07-30T00:05:12.000Z",
+      "dateEnd": "2026-07-30T01:09:05.000Z",
+      "dateLabel": "7/30/2026, 2:05:12 AM - 7/30/2026, 3:09:05 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260730-020512-nz53",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260729-021201-vfo9",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
       ],
-      "avgSquadSize": 44,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260721-025216-f0av",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "dateStart": "2026-07-21T00:52:16.000Z",
-    "dateEnd": "2026-07-21T02:14:57.000Z",
-    "dateLabel": "7/21/2026, 2:52:16 AM - 7/21/2026, 4:14:57 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260721-025216-f0av",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 10,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-07-29T00:12:01.000Z",
+      "dateEnd": "2026-07-29T01:05:47.000Z",
+      "dateLabel": "7/29/2026, 2:12:01 AM - 7/29/2026, 3:05:47 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260729-021201-vfo9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260721-025216-f0av",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 45,
-      "avgEnemySize": 21
-    }
-  },
-  {
-    "id": "20260716-015122-zum6",
-    "title": "Bald Predator",
-    "commanders": [
-      "Bald Predator"
-    ],
-    "dateStart": "2026-07-15T23:51:22.000Z",
-    "dateEnd": "2026-07-16T00:37:51.000Z",
-    "dateLabel": "7/16/2026, 1:51:22 AM - 7/16/2026, 2:37:51 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260716-015122-zum6",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 29,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-21T00:52:16.000Z",
+      "dateEnd": "2026-07-21T02:14:57.000Z",
+      "dateLabel": "7/21/2026, 2:52:16 AM - 7/21/2026, 4:14:57 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260721-025216-f0av",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 21
+      }
+    },
+    {
+      "id": "20260716-015122-zum6",
+      "title": "Bald Predator",
+      "commanders": [
+        "Bald Predator"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260714-024006-dvxb",
-    "title": "Bald Predator, When You Walk Away",
-    "commanders": [
-      "Bald Predator",
-      "When You Walk Away"
-    ],
-    "dateStart": "2026-07-14T00:40:06.000Z",
-    "dateEnd": "2026-07-14T02:04:14.000Z",
-    "dateLabel": "7/14/2026, 2:40:06 AM - 7/14/2026, 4:04:14 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260714-024006-dvxb",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 31,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-15T23:51:22.000Z",
+      "dateEnd": "2026-07-16T00:37:51.000Z",
+      "dateLabel": "7/16/2026, 1:51:22 AM - 7/16/2026, 2:37:51 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260716-015122-zum6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260714-024006-dvxb",
+      "title": "Bald Predator, When You Walk Away",
+      "commanders": [
+        "Bald Predator",
+        "When You Walk Away"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 42
-    }
-  },
-  {
-    "id": "20260702-025154-a0l1",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "dateStart": "2026-07-02T00:51:54.000Z",
-    "dateEnd": "2026-07-02T02:18:57.000Z",
-    "dateLabel": "7/2/2026, 2:51:54 AM - 7/2/2026, 4:18:57 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260702-025154-a0l1",
-    "summary": {
-      "borderlandsPct": 0.05263157894736842,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 18,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-14T00:40:06.000Z",
+      "dateEnd": "2026-07-14T02:04:14.000Z",
+      "dateLabel": "7/14/2026, 2:40:06 AM - 7/14/2026, 4:04:14 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260714-024006-dvxb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 42
+      }
+    },
+    {
+      "id": "20260702-025154-a0l1",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260625-023001-imos",
-    "title": "I Symphony I",
-    "commanders": [
-      "I Symphony I"
-    ],
-    "dateStart": "2026-06-25T00:30:01.000Z",
-    "dateEnd": "2026-06-25T01:17:19.000Z",
-    "dateLabel": "6/25/2026, 2:30:01 AM - 6/25/2026, 3:17:19 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260625-023001-imos",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 26,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-07-02T00:51:54.000Z",
+      "dateEnd": "2026-07-02T02:18:57.000Z",
+      "dateLabel": "7/2/2026, 2:51:54 AM - 7/2/2026, 4:18:57 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260702-025154-a0l1",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260625-023001-imos",
+      "title": "I Symphony I",
+      "commanders": [
+        "I Symphony I"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260623-035227-ejwb",
-    "title": "I Symphony I",
-    "commanders": [
-      "I Symphony I"
-    ],
-    "dateStart": "2026-06-23T01:52:27.000Z",
-    "dateEnd": "2026-06-23T02:34:48.000Z",
-    "dateLabel": "6/23/2026, 3:52:27 AM - 6/23/2026, 4:34:48 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260623-035227-ejwb",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 12,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-06-25T00:30:01.000Z",
+      "dateEnd": "2026-06-25T01:17:19.000Z",
+      "dateLabel": "6/25/2026, 2:30:01 AM - 6/25/2026, 3:17:19 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260625-023001-imos",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260623-035227-ejwb",
+      "title": "I Symphony I",
+      "commanders": [
+        "I Symphony I"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 25
-    }
-  },
-  {
-    "id": "20260623-023755-822j",
-    "title": "I Symphony I",
-    "commanders": [
-      "I Symphony I"
-    ],
-    "dateStart": "2026-06-23T00:37:55.000Z",
-    "dateEnd": "2026-06-23T01:09:19.000Z",
-    "dateLabel": "6/23/2026, 2:37:55 AM - 6/23/2026, 3:09:19 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260623-023755-822j",
-    "summary": {
-      "borderlandsPct": 0.7272727272727273,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 32,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Edge of the Mists",
-          "value": 12,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-06-23T01:52:27.000Z",
+      "dateEnd": "2026-06-23T02:34:48.000Z",
+      "dateLabel": "6/23/2026, 3:52:27 AM - 6/23/2026, 4:34:48 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260623-035227-ejwb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260623-023755-822j",
+      "title": "I Symphony I",
+      "commanders": [
+        "I Symphony I"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 29
-    }
-  },
-  {
-    "id": "20260617-023531-mocr",
-    "title": "Jmbrage, Jmbrage Gaurdian",
-    "commanders": [
-      "Jmbrage",
-      "Jmbrage Gaurdian"
-    ],
-    "dateStart": "2026-06-17T00:35:31.000Z",
-    "dateEnd": "2026-06-17T01:47:17.000Z",
-    "dateLabel": "6/17/2026, 2:35:31 AM - 6/17/2026, 3:47:17 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260617-023531-mocr",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 20,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 10,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-06-23T00:37:55.000Z",
+      "dateEnd": "2026-06-23T01:09:19.000Z",
+      "dateLabel": "6/23/2026, 2:37:55 AM - 6/23/2026, 3:09:19 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260623-023755-822j",
+      "summary": {
+        "borderlandsPct": 0.7272727272727273,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260617-023531-mocr",
+      "title": "Jmbrage, Jmbrage Gaurdian",
+      "commanders": [
+        "Jmbrage",
+        "Jmbrage Gaurdian"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260616-023242-spw3",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "dateStart": "2026-06-16T00:32:42.000Z",
-    "dateEnd": "2026-06-16T01:42:54.000Z",
-    "dateLabel": "6/16/2026, 2:32:42 AM - 6/16/2026, 3:42:54 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260616-023242-spw3",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 8,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-06-17T00:35:31.000Z",
+      "dateEnd": "2026-06-17T01:47:17.000Z",
+      "dateLabel": "6/17/2026, 2:35:31 AM - 6/17/2026, 3:47:17 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260617-023531-mocr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260616-023242-spw3",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 37
-    }
-  },
-  {
-    "id": "20260614-024850-wxx0",
-    "title": "Cmon Wing",
-    "commanders": [
-      "Cmon Wing"
-    ],
-    "dateStart": "2026-06-14T00:48:50.000Z",
-    "dateEnd": "2026-06-14T02:02:17.000Z",
-    "dateLabel": "6/14/2026, 2:48:50 AM - 6/14/2026, 4:02:17 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260614-024850-wxx0",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-06-16T00:32:42.000Z",
+      "dateEnd": "2026-06-16T01:42:54.000Z",
+      "dateLabel": "6/16/2026, 2:32:42 AM - 6/16/2026, 3:42:54 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260616-023242-spw3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 37
+      }
+    },
+    {
+      "id": "20260614-024850-wxx0",
+      "title": "Cmon Wing",
+      "commanders": [
+        "Cmon Wing"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260611-022652-g3gx",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "dateStart": "2026-06-11T00:26:52.000Z",
-    "dateEnd": "2026-06-11T02:26:34.000Z",
-    "dateLabel": "6/11/2026, 2:26:52 AM - 6/11/2026, 4:26:34 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260611-022652-g3gx",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 23,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 6,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-14T00:48:50.000Z",
+      "dateEnd": "2026-06-14T02:02:17.000Z",
+      "dateLabel": "6/14/2026, 2:48:50 AM - 6/14/2026, 4:02:17 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260614-024850-wxx0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260611-022652-g3gx",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260610-023937-3mym",
-    "title": "Jmbrage",
-    "commanders": [
-      "Jmbrage"
-    ],
-    "dateStart": "2026-06-10T00:39:37.000Z",
-    "dateEnd": "2026-06-10T01:30:07.000Z",
-    "dateLabel": "6/10/2026, 2:39:37 AM - 6/10/2026, 3:30:07 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260610-023937-3mym",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 25,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 2,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-11T00:26:52.000Z",
+      "dateEnd": "2026-06-11T02:26:34.000Z",
+      "dateLabel": "6/11/2026, 2:26:52 AM - 6/11/2026, 4:26:34 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260611-022652-g3gx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260610-023937-3mym",
+      "title": "Jmbrage",
+      "commanders": [
+        "Jmbrage"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 52
-    }
-  },
-  {
-    "id": "20260609-024337-sish",
-    "title": "When You Walk Away",
-    "commanders": [
-      "When You Walk Away"
-    ],
-    "dateStart": "2026-06-09T00:43:37.000Z",
-    "dateEnd": "2026-06-09T01:49:54.000Z",
-    "dateLabel": "6/9/2026, 2:43:37 AM - 6/9/2026, 3:49:54 AM",
-    "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260609-024337-sish",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 27,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-06-10T00:39:37.000Z",
+      "dateEnd": "2026-06-10T01:30:07.000Z",
+      "dateLabel": "6/10/2026, 2:39:37 AM - 6/10/2026, 3:30:07 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260610-023937-3mym",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 52
+      }
+    },
+    {
+      "id": "20260609-024337-sish",
+      "title": "When You Walk Away",
+      "commanders": [
+        "When You Walk Away"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 50
+      "dateStart": "2026-06-09T00:43:37.000Z",
+      "dateEnd": "2026-06-09T01:49:54.000Z",
+      "dateLabel": "6/9/2026, 2:43:37 AM - 6/9/2026, 3:49:54 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260609-024337-sish",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 50
+      }
     }
-  }
-]
+  ]
+}
