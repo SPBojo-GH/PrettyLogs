@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260909-023301-brx3",
+      "title": "Jmbrage Gaurdian",
+      "commanders": [
+        "Jmbrage Gaurdian"
+      ],
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-09-09T00:33:01.000Z",
+      "dateEnd": "2026-09-09T01:55:12.325Z",
+      "dateLabel": "9/9/2026, 2:33:01 AM - 9/9/2026, 3:55:12 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260909-023301-brx3",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260908-123526-gwp2",
       "title": "Rub Shocks Rucksack",
       "commanders": [
