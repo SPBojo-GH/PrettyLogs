@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260912-120518-aphm",
+      "title": "Solomyrucksack",
+      "commanders": [
+        "Solomyrucksack"
+      ],
+      "guild": {
+        "id": "963332A8-5EA3-F011-BB1C-06100262F10B",
+        "name": "Bags Per Mînute",
+        "tag": "BPM"
+      },
+      "dateStart": "2026-09-12T10:05:18.000Z",
+      "dateEnd": "2026-09-12T12:01:03.732Z",
+      "dateLabel": "9/12/2026, 12:05:18 PM - 9/12/2026, 2:01:03 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260912-120518-aphm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260910-121059-jt60",
       "title": "Rub Shocks Rucksack",
       "commanders": [
