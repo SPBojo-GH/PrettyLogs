@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260913-021838-n4yy",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-09-13T00:18:38.000Z",
+      "dateEnd": "2026-09-13T01:45:37.928Z",
+      "dateLabel": "9/13/2026, 2:18:38 AM - 9/13/2026, 3:45:37 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260913-021838-n4yy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260912-120518-aphm",
       "title": "Solomyrucksack",
       "commanders": [
