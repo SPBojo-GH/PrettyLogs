@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260913-120537-ikt1",
+      "title": "Rub Shocks Rucksack",
+      "commanders": [
+        "Rub Shocks Rucksack"
+      ],
+      "guild": {
+        "id": "963332A8-5EA3-F011-BB1C-06100262F10B",
+        "name": "Bags Per Mînute",
+        "tag": "BPM"
+      },
+      "dateStart": "2026-09-13T10:05:37.000Z",
+      "dateEnd": "2026-09-13T11:27:36.898Z",
+      "dateLabel": "9/13/2026, 12:05:37 PM - 9/13/2026, 1:27:36 PM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260913-120537-ikt1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260913-021838-n4yy",
       "title": "Grimaldi",
       "commanders": [
