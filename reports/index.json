@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260917-032544-m8z9",
+      "title": "Waifu Enjoyer",
+      "commanders": [
+        "Waifu Enjoyer"
+      ],
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-09-17T01:25:44.000Z",
+      "dateEnd": "2026-09-17T02:36:37.423Z",
+      "dateLabel": "9/17/2026, 3:25:44 AM - 9/17/2026, 4:36:37 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260917-032544-m8z9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260913-120537-ikt1",
       "title": "Rub Shocks Rucksack",
       "commanders": [
