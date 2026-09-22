@@ -4,6 +4,35 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260922-023837-28io",
+      "title": "Bald Predator, Waifu Enjoyer",
+      "commanders": [
+        "Bald Predator",
+        "Waifu Enjoyer"
+      ],
+      "guild": {
+        "id": "A3FF612D-ACBE-EB11-81AB-8CD3CF4E85AB",
+        "name": "Celestial Omen",
+        "tag": "CO"
+      },
+      "dateStart": "2026-09-22T00:38:37.000Z",
+      "dateEnd": "2026-09-22T01:37:30.702Z",
+      "dateLabel": "9/22/2026, 2:38:37 AM - 9/22/2026, 3:37:30 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260922-023837-28io",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260917-032544-m8z9",
       "title": "Waifu Enjoyer",
       "commanders": [
