@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260930-022338-ztzf",
+      "title": "Bald Predator",
+      "commanders": [
+        "Bald Predator"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-09-30T00:23:38.000Z",
+      "dateEnd": "2026-09-30T01:13:24.371Z",
+      "dateLabel": "9/30/2026, 2:23:38 AM - 9/30/2026, 3:13:24 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20260930-022338-ztzf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260929-024525-va9o",
       "title": "Waifu Enjoyer",
       "commanders": [
