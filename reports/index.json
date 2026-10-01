@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261001-015010-jq9m",
+      "title": "Bald Predator",
+      "commanders": [
+        "Bald Predator"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-09-30T23:50:10.000Z",
+      "dateEnd": "2026-10-01T00:41:50.782Z",
+      "dateLabel": "10/1/2026, 1:50:10 AM - 10/1/2026, 2:41:50 AM",
+      "url": "https://SPBojo-GH.github.io/PrettyLogs/?report=20261001-015010-jq9m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260930-022338-ztzf",
       "title": "Bald Predator",
       "commanders": [
